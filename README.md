@@ -9,5 +9,3 @@ To suggest more to this little program, requesting a few ideas would be a good t
 Suggest stuff like: 
 - Features
 - Answers for new questions
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=END=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Copyright @MPVNGroup. 2018
